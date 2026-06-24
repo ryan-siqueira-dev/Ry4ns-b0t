@@ -7,7 +7,7 @@ name = "ry4ns-bot"
 version = "0.1.0"
 description = "A small Discord utility bot built with discord.py."
 readme = "README.md"
-requires-python = ">=3.12,<3.13"
+requires-python = ">=3.12,<3.14"
 dependencies = [
     "discord.py==2.7.1",
     "python-dotenv>=1.0,<2.0",

@@ -4,14 +4,14 @@ Bot utilitario para Discord feito em Python com `discord.py`.
 
 ## Requisitos
 
-- Python 3.12
+- Python 3.12 ou 3.13
 - Uma aplicacao criada no Discord Developer Portal
 - Um bot convidado para o servidor com os escopos `bot` e `applications.commands`
 
 ## Configuracao local
 
 ```bash
-python3.12 -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -U pip
 python -m pip install -e .
