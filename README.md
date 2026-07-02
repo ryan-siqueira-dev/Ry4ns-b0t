@@ -49,7 +49,6 @@ python -m ry4ns_bot
 ## Comandos de moderacao
 
 - `/timeout`: silencia temporariamente um membro. Exige permissao de moderar membros.
-- `/untimeout`: remove o timeout de um membro. Exige permissao de moderar membros.
 - `/kick`: expulsa um membro do servidor. Exige permissao de expulsar membros.
 - `/ban`: bane um membro do servidor. Exige permissao de banir membros.
 - `/slowmode`: define o modo lento do canal atual. Exige permissao de gerenciar canais.
